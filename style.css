@@ -1,0 +1,163 @@
+body{
+	background: #E6E6E6;
+}
+
+#site{
+	padding: 0px 2em;
+	margin: 3em auto;
+	max-width: 1000px;
+	box-shadow: 0px 2px 6px rgba(100, 100, 100, 0.3);
+	background-color: white;
+}
+
+#site-title {
+	border-bottom:1px solid #cccccc;
+	color: #444;
+	margin-bottom: 0px;
+	font-size: 1.8rem;
+	line-height: 1.9;
+}
+
+#page-title {
+	font-weight:bold;
+	margin-top: 0px;
+	width: 70%;
+    margin-bottom: 0px;
+    border-bottom: 4px solid rgb(164,164,164);
+}
+
+#about-me-title {
+	color: black;
+	font-size: 0.785714rem;
+	text-transform: uppercase;
+}
+
+header{
+	padding: 10px 0px;
+}
+
+nav{
+	display: inline-block;
+	width: 100%;
+}
+
+nav > ul {
+	padding:0;
+	margin:0;
+	list-style-type:none;
+	border-bottom:1px solid #cccccc;
+}
+
+nav li {
+ 	display: inline-block;
+ 	margin-right: 2em;
+ }
+
+nav li a{
+	color: #6A6A6A;
+	line-height: 3.69231;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+nav li a:hover {
+	color: #303030;
+}
+
+nav li a.currentPage{
+	font-weight: bold;
+}
+
+#page-content{
+	display:inline-block;
+	width:100%;
+}
+
+#page-content a{
+	text-decoration: none;
+}
+
+#page-content a:hover{
+	text-decoration: underline;
+}
+
+#left-content{
+	float: left;
+	width: 70%;
+}
+
+#right-content{
+	float: right;
+	width: 25%;
+}
+
+#home-picture{
+	background: url('images/paris.jpg') no-repeat;
+	height: 450px;
+	border-radius: 5px;
+	position: relative;
+	box-shadow: 0px 4px 4px #1C1A19;
+	margin-top: 15px;	
+	margin-bottom: 15px;
+	width: 100%;
+}
+
+#welcome{
+	position: absolute;
+	bottom: 0px;
+	background-color: rgba(24,24,24,0.8);
+	color: white;
+	border-radius: 0px 0px 5px 5px;
+	width: 99.5%;
+	height: 33px;
+	padding-top: 15px;
+	padding-left: 4px;
+	font-size: 1.2em;
+	margin-bottom: 0px;
+}
+
+.center{
+	text-align: center;
+}
+
+.raggedRight{
+	text-align: right;
+}
+
+.justify {
+	text-align: justify;
+}
+
+#photo > img{
+	border: 1px solid #181818;
+}
+
+.highLevel{
+	color: blue;
+}
+
+#skills table{
+	border-bottom: 2px solid #202020; 
+	width: 100%;
+}
+
+#skills td {
+	width: 50%;
+	vertical-align: top;
+}
+
+#projects table{
+	width: 100%;
+	border-top: 2px solid #202020;	
+	border-bottom: 2px solid #202020;	
+	line-height: 2;
+	margin-top: 1.5em;
+}
+
+.duration {
+	color: blue;
+}
+
+.project-desc{
+	color: #707070;
+}
