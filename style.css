@@ -5,7 +5,7 @@ body{
 #site{
 	padding: 0px 2em;
 	margin: 3em auto;
-	max-width: 1000px;
+	max-width: 80%;
 	box-shadow: 0px 2px 6px rgba(100, 100, 100, 0.3);
 	background-color: white;
 }

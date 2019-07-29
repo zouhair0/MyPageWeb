@@ -1,5 +1,5 @@
 document.write('\
-<h2 id="site-title">Zouhair MORTABIT - Ma page web </h2>\
+<h2 id="site-title">Zouhair MORTABIT </h2>\
 	<nav>\
 		<ul>\
 			<li><a href="index.html">Accueil</a></li>\

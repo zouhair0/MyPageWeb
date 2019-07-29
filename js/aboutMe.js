@@ -7,7 +7,7 @@ document.write('\
 	\
 	<div class="justify">\
 	<p>\
-		Je suis Zouhair MORTABIT, ingénieur Data Science lauréat de l\'école <a href="http://polytech.univ-bpclermont.fr/">Polytech Clermont-Ferrand </a>\
+		Je suis Zouhair MORTABIT, software développeur lauréat de l\'école <a href="http://polytech.univ-bpclermont.fr/">Polytech Clermont-Ferrand </a>\
 		filiére Génie Mathématique et Modélisation.\
 	</p>\
 		<p>\
